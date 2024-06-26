@@ -21,8 +21,9 @@ This project is designed to create an AI co-host that can interact in real-time,
 ### Step 1: Clone the Repository
 
 ````bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Moikapy/ai_streamer_cohost.git
+cd ai_streamer_cohost
+````
 
 ## Step 2: Install Python Dependencies
 Create a virtual environment and install the required packages:
@@ -115,7 +116,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Additional Notes
 
-- Ensure to replace `<repository-url>` and `<repository-folder>` with the actual repository URL and folder name.
 - Make sure that Tesseract OCR is properly installed and configured on your system to avoid any issues with image processing.
 - The `.env` file should be created in the root of your project directory with the correct API key.
 
