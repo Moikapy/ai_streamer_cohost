@@ -67,14 +67,15 @@ Create a .env file in the root of the project and add your OpenAI API key:
 
 ```bash
 OPENAI_API_KEY=your_openai_api_key
-Step 6: Run the Project
-To start both the FastAPI server and the WebSocket client and monitor them for specific log messages, run:
 ```
+## Step 6: Run the Project
+To start both the FastAPI server and the WebSocket client and monitor them for specific log messages, run:
 
 ```bash
 python monitor_and_restart.py
-Project Structure
 ```
+
+## Project Structure
 
 ```bash
 ├── app
