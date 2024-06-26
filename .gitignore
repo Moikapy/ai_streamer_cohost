@@ -1,0 +1,8 @@
+.env
+__pycache__/
+
+sqlite.db
+
+server.log
+
+screenshot.png

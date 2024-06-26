@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain-openai
+langgraph
+python-dotenv
+websockets
+mss
+pytesseract
+Pillow
+langchain-community
+unstructured
+pdfminer.six
+pillow_heif
